@@ -18,4 +18,5 @@ Basta abrir `index.html` no navegador.
 - `docs/release-notes.md`
 
 ## Créditos
-- Aluno A (owner), Aluno B, Aluno C.
+- Aluno Hugo Rafael
+- Aluno Gabriel Melo
