@@ -55,3 +55,7 @@ main {
   background: transparent;
   color: var(--text);
 }
+
+#message, #btn-toggle-theme, #count{
+  color:black
+}
