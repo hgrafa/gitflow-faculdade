@@ -1,8 +1,9 @@
 # Diário de Decisões e Conflitos
 
 Registre aqui:
-- **Arquivo/linhas** com conflito (aproximado).
-- **Causa** (ex.: alteração simultânea da mesma linha).
-- **Alternativas consideradas**.
-- **Decisão final** e **racional**.
-- **Quem resolveu** (A/B/C) e **data**.
+
+- Conflito nas cores do CSS
+- Causa ambas as features alteravam cores e o nome da funcao
+- Decidir entre qual nome e qual cor usar
+- Decidimos usar o nome updateCount e a cor f63b3b
+- Aluno B resolvou em 25/09/2025
